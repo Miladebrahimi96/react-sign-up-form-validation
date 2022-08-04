@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
-import styles from "../styles/Login.module.css"
+import styles from "../styles/SignUp.module.css"
 
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
